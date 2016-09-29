@@ -14,7 +14,7 @@ Hotel logo : created on Adobe Illustrator CC
 
 Icons : https://www.iconfinder.com/icons/104458/facebook_fb_social_social_media_icon#size=128
 
-Right click on the index.html file and select copy link, and to view page use link: http://htmlpreview.github.io/
+Right click on the index.html file and select copy link address, and to view page use link: http://htmlpreview.github.io/
 
 
 
